@@ -1,0 +1,22 @@
+!-- 👇 Template Member Card COPY STARTING FROM HERE, INCLUDING THIS COMMENT LINE--
+      div class=card
+        h2 Ntandoyenkosi Buthelezi🦚h2
+        pstrongStudent Numberstrong s231434413p
+        p
+          strongGitHubstrong
+          a href=httpsgithub.comNtando99Sine target=_blank
+            Ntando99Sinea
+          
+          !-- Dont change target=_blank only change the URL httpsgithub.comNtando99Sine--
+        p
+        pstrongM119-22strong R128-05p
+        p
+          strongBiostrong Event Coordinator br @
+          a href=httpslinktr.eeNMU.Computer.Society
+            NMU Computer Societya
+          
+        p
+        pstrongFun Factstrong I am beginner level chess player and i like LIRPG books and comics.p
+      div
+
+      !-- 👆COPY ENDING HERE AND PASTE UNDER THIS COMMENT👇--
